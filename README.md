@@ -1,7 +1,5 @@
 Penjelasan Solusi Studi Kasus GMRT (Day 1)
 
-Berikut ini adalah penjelasan singkat mengenai pembahasan cara kerja dari program yang telah dibuat untuk menyelesaikan Problem 1 dan Problem 2.
-
 Problem 1: Penyeimbangan Barang antar Kotak
 Pada problem ini, tugas robot adalah memindahkan barang 2 kg dan 1 kg ke 3 kotak penyimpanan agar jumlah barang dan total berat di tiap kotak menjadi sama persis.
 
